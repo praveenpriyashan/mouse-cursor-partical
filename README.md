@@ -20,7 +20,9 @@ You can view a live demo of the application [here](#).
 - Type-writing text effect displaying various technologies.
 
 ## Screenshot
-![Screenshot of the JavaScript App](./assets/screenshot.png)
+![Screenshot of the JavaScript App](https://github.com/praveenpriyashan/mouse-cursor-partical/blob/edit-branch/image/a.png)
+![Screenshot of the JavaScript App](https://github.com/praveenpriyashan/mouse-cursor-partical/blob/edit-branch/image/b.png)
+![Screenshot of the JavaScript App](https://github.com/praveenpriyashan/mouse-cursor-partical/blob/edit-branch/image/c.png)
 
 
 ## Installation
@@ -67,7 +69,7 @@ Contributions are welcome! Please read the [CONTRIBUTING](CONTRIBUTING.md) guide
 1. Fork the project
 2. Create your feature branch:
     ```sh
-    git checkout -b feature/AmazingFeature
+    git checkout -b edit-branch
     ```
 3. Commit your changes:
     ```sh
@@ -75,7 +77,7 @@ Contributions are welcome! Please read the [CONTRIBUTING](CONTRIBUTING.md) guide
     ```
 4. Push to the branch:
     ```sh
-    git push origin feature/AmazingFeature
+    git push origin edit-branch
     ```
 5. Open a pull request
 
